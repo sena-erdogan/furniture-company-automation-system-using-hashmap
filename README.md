@@ -1,5 +1,10 @@
 # furniture-company-automation-system-using-hashmap
 
+*See repo: 
+furniture-company-automation-system-using-arrays
+furniture-company-automation-system-using-arraylist-and-linkedlist
+*
+
 A custom iterator class MapIterator was implemented to iterate through the keys in a HashMap data structure.
 
 KWHashMap interface in the book was implemented using the following hashing methods to organize hash
